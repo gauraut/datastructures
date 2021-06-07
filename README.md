@@ -13,6 +13,6 @@ Below is the brief explanation of each folder and my contribution:
 
 4. graph_search - This one was a pretty heavy exercise but I found the implementation fun to do. Here, there are three exercises(which also had sub-exercises) to complete, the description of which and the code I developed can be found in "GraphSearchExercises.cpp".
 
-5. UnorderedMap - (My Favourite) Basically C++'s STL version of HashMaps. The exercises can be found in "UnorderedMapExercises.cpp". Here, I had to complete three exercises which had sub-exercises in them. The exercises dealt with constructing a wordcount function with hashmaps, some of the unordered map's ADT in C++ like the .at(), .count() functions. The third part dealt with one dimensional Dynamic Programming and use of HashMaps for memoization. Pretty cool!
+5. UnorderedMap - (My Favourite) Basically C++'s STL version of HashMaps. The exercises can be found in "UnorderedMapExercises.cpp". Here, I had to complete three exercises which had sub-exercises in them. The exercises dealt with constructing a wordcount function with hashmaps and uses of some of the unordered map's ADT in C++ like the .at(), .count() functions. The third part dealt with one dimensional Dynamic Programming and use of HashMaps for memoization. Pretty cool!
 
 Thank You for reading!
