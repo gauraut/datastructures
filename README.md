@@ -7,4 +7,8 @@ Below is the brief explanation of each folder and my contribution:
 
 1. ImageT - The functions and declarations in files "ImageTransform.cpp" and "ImageTransform.h" were completed by me. Here, I had to develop three functions which will edit the input image pixel-by-pixel. 
 
-2. 
+2. LinkedList - In this directory, the codes in "LinkedListExercises.cpp" were completed by me. This exercise taught me to develop a templated LinkedList from scratch. Personally, Linked Lists are cool but I'd rather use dynamic arrays in many use cases :)
+
+3. GenericTree - Here, I completed two exercises. One made me understand trees and it's structure, the other where I traversed a tree using BFS algorithm.
+
+4. 
